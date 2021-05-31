@@ -8,6 +8,7 @@ load "decompositions.m";
 This makes the function decompMB(p, O, f) available
 
 Input:
+
 -p a prime number
 -O a maximal order in a quaternion Q-algebra ramified only at (p, infty)
 -f a 2x2 Matrix with entries in O as in the paper
@@ -39,6 +40,7 @@ The first file ssEllCurvEndStr.m defines the class ssEllipticCurveEndStr of supe
 An object in this class is constructed via ssEllipticCurveEndStr(E, B, indep, indepB, FB)
 
 Input:
+
 - E a supersingular elliptic curve over a field containing F_{p^2}. E must be defined over F_p.
 - B a quaternion algebra (needs to be isomorphic to End^0(E))
 - indep is a four element tuple of endomorphisms of E (the rational functions describing these endomorphisms must be defined at the origin).
