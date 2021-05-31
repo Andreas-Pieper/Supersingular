@@ -9,9 +9,9 @@ This makes the function decompMB(p, O, f) available
 
 Input:
 
--p a prime number
--O a maximal order in a quaternion Q-algebra ramified only at (p, infty)
--f a 2x2 Matrix with entries in O as in the paper
+-p a prime number.
+-O a maximal order in a quaternion Q-algebra ramified only at (p, infty).
+-f a 2x2 Matrix with entries in O as in the paper.
 
 Output:
 All the Matrices f_1 such that f=f_1+(f-f_1) is a decomposition as in the paper.
