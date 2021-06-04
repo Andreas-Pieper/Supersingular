@@ -1,4 +1,4 @@
-Attach("Dropbox/Supersingular/Code/ssEllCurvEndStr.m");
+Attach("ssEllCurvEndStr.m");
 
 padicVal:=function(r,p)
 Zp:=pAdicRing(p);
