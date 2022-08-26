@@ -1,5 +1,5 @@
 # Supersingular
-Magma code for constructing genus 2 curves with supersingular jacobian.
+Magma code for constructing genus 2 curves with supersingular jacobian using https://link.springer.com/article/10.1007/s40993-022-00330-z.
 
 The file decompositions.m needs to be loaded using
 
